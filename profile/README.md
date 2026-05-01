@@ -30,7 +30,7 @@ In the Ninecent ecosystem, every contribution counts toward your overall integri
 
 ## Contact
 - **Inquiries:** Use the GitHub Issues tab in the relevant repository.
-- **请仅通过微信联系：** siakinnik」
+- **请仅通过微信联系：** siakinnik
 
 ---
 **Disclaimer:** *Ninecent-oss (九分) is NOT affiliated, associated, authorized, endorsed by, or in any way officially connected with Tencent Holdings Ltd. or any of its subsidiaries (Weixin, QQ, etc.). Our projects are independent research tools. Use responsibly and in accordance with your local laws and regulations.*
